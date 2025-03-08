@@ -11,7 +11,7 @@ public class Controller {
 	
 	@PostMapping("/display")
 	public void display() {
-		System.out.println("Service A is displaying");
+		System.out.println("Service A is displaying Properly");
 	}
 
 }
